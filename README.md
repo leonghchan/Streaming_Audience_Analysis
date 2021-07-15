@@ -1,4 +1,4 @@
-Streaming audience analysis
+# Streaming audience analysis
 
 Analysis of data related to an online streaming platform. In total, there are three separate datasets:
 • data_frequency.csv - users have been allocated to separate frequency segments based on their last 13 weeks of activity. 
